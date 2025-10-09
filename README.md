@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @tingyo123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @tingyo123 from Taiwan
 
-<!---
-tingyo123/tingyo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi, I'm tingyo, 123 is my birthday, welcome to my github account
+👀 I’m interested in  
+- Programming  
+- Backend development  
+- Machine Learning  
 
+🎓 Graduated from the Dept. of Information Management, National Taiwan University
+
+📫 How to reach me: [tingyo128@gmail.com](mailto:tingyo128@gmail.com)
+
+🔗 LinkedIn: [https://www.linkedin.com/in/ting-chen-037602234/]([https://www.linkedin.com/in/tingyo123](https://www.linkedin.com/in/ting-chen-037602234/))
