@@ -9,4 +9,4 @@
 
 📫 How to reach me: [tingyo128@gmail.com](mailto:tingyo128@gmail.com)
 
-🔗 LinkedIn: [https://www.linkedin.com/in/ting-chen-037602234/]([https://www.linkedin.com/in/tingyo123](https://www.linkedin.com/in/ting-chen-037602234/))
+🔗 LinkedIn: [https://www.linkedin.com/in/ting-chen-037602234/](https://www.linkedin.com/in/ting-chen-037602234/)
