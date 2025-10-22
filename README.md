@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @tingyo123 from Taiwan
 
 👀 I’m interested in  
-- Programming  
-- Backend development  
+- Full Stack Development
+- Backend Development  
 - Machine Learning  
 
 🎓 Graduated from the Dept. of Information Management, National Taiwan University
